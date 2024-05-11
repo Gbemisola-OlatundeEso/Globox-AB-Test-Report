@@ -1,0 +1,6 @@
+# resource links
+
+google sheets link (if applicable):
+python notebook link (if applicable):https://colab.research.google.com/drive/19xvrNBWlZxQ2wj1_hJpKnL3KyiN5bCNi?usp=sharing
+tableau public link: https://public.tableau.com/views/GloboxABTestingProject-GbemisolaMaryOlatunde-Eso/GloboxABTestAnalysis?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+presentation video link: https://drive.google.com/file/d/1lED7tZTNHv4Iv93lPscveHRliMkBeD-F/view?usp=sharing"
